@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Matrix Physiotherapy</title>
+	<atom:link href="https://matrixphysiotherapy.co.uk/feed/" rel="self" type="application/rss+xml" />
+	<link>https://matrixphysiotherapy.co.uk</link>
+	<description></description>
+	<lastBuildDate>Fri, 29 Mar 2019 12:24:46 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>Physiotherapy VS Sports Physiotherapy, what´s the difference?</title>
+		<link>https://matrixphysiotherapy.co.uk/physiotherapy-vs-sports-physiotherapy/</link>
+					<comments>https://matrixphysiotherapy.co.uk/physiotherapy-vs-sports-physiotherapy/#respond</comments>
+		
+		<dc:creator><![CDATA[RizDev]]></dc:creator>
+		<pubDate>Thu, 10 Jan 2019 17:53:35 +0000</pubDate>
+				<category><![CDATA[Physiotherapy]]></category>
+		<guid isPermaLink="false">https://matrixphysiotherapy.co.uk/?p=590</guid>
+
+					<description><![CDATA[<p>What´s physiotherapy? According to the CSP(Chartered society of Physiotherapy) Physiotherapy is a healthcare profession that [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://matrixphysiotherapy.co.uk/physiotherapy-vs-sports-physiotherapy/">Physiotherapy VS Sports Physiotherapy, what´s the difference?</a> appeared first on <a rel="nofollow" href="https://matrixphysiotherapy.co.uk">Matrix Physiotherapy</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h1><b>What´s physiotherapy?</b></h1>
+<h2><b>According to the CSP(Chartered society of Physiotherapy) </b></h2>
+<blockquote><p><em>Physiotherapy is a healthcare profession that helps restore movement and function when someone is affected by injury, illness or disability.</em></p></blockquote>
+<h2><b>What physiotherapists do? </b></h2>
+<p>Physiotherapists help people affected by injury, illness or disability through movement and exercise, manual therapy, education and advice. (<a href="https://www.csp.org.uk/public-patient/find-physiotherapist/physio2u/matrix-physio">by the CSP)</a></p>
+<p>A Physiotherapist uses a combination of <a href="https://matrixphysiotherapy.co.uk/service/manual-therapy-sports-massage/"><b>manual therapy techniques</b></a> to restore range of motion and reduce pain. There are different Techniques that we use, from sports and remedial massage,  joint mobilisations to spinal manipulation, with the aim of restoring movement and proprioception.</p>
+<p>Here is a list of common pains that can be fixed with physiotherapy.</p>
+<ul>
+<li>Sport injuries pain</li>
+<li>Shoulder pain</li>
+<li>Neck Pain</li>
+<li>Back Pain</li>
+<li>Ankle Sprains</li>
+<li>Achilles tendonitis</li>
+<li>Knee pain</li>
+<li>Low back pain</li>
+<li>Jumpers knee/Patellar Tendonitis</li>
+<li>Runners Knee/ITBand Syndrome</li>
+<li>ACL tears and post surgical rehabilitation</li>
+<li>Meniscus/Knee Cartilage injuries and post surgical rehabilitation</li>
+<li>MCL/LCL tears</li>
+<li>Patellofemoral syndrome</li>
+<li>Osgood’s Schlatter Syndrome</li>
+</ul>
+<p>For instance, Physical Rehabilitation is focused on treating differents injuries and issues that we might have, divided in different areas:</p>
+<ul>
+<li><a href="https://matrixphysiotherapy.co.uk/services/physical-health/">Physical therapy</a> to help your strength, mobility and fitness</li>
+<li><a href="https://matrixphysiotherapy.co.uk/service/corporate-occupational-health/">Occupational therapy</a> to help you with your daily activities</li>
+</ul>
+<p>The type of therapy and goals are different for each patient, depending on your age and what the pain are you suffering from.</p>
+<h2><b>Physiotherapy VS Sports Physiotherapy, what´s the difference?</b></h2>
+<p>Most of our clients sometimes ask us what&#8217;s the main difference between Physiotherapy and Sports Therapy?</p>
+<p>The real truth is that both professions are trained to treat musculoskeletal disorders and both have the same purpose. Hoewer there are some differences in their approach and training.</p>
+<p>In this article, we want to explain you what are the similarities and the differences between Physiotherapist and Sports Therapists.</p>
+<p>The similarities are that both are focused on helping, restoring, maintaining and maximising movement, relieving pain and helping improve their quality of life.</p>
+<p>Both professionals possess skills and knowledge to:</p>
+<ul>
+<li>Asses and diagnosed any pain or injuries</li>
+<li>Deliver a tailored treatment to maximise movement</li>
+<li>Teach and train patients on how to reduce and manage pain</li>
+<li>Implement rehabilitations plans</li>
+</ul>
+<p>Other services that both can provide are:</p>
+<ul>
+<li>Sports massage</li>
+<li><a href="https://matrixphysiotherapy.co.uk/service/electrotherapy/">Electrotherapy</a></li>
+<li>Manual Therapy</li>
+<li><a href="https://matrixphysiotherapy.co.uk/service/electrotherapy/">Acupuncture  </a></li>
+<li>Physical Rehabilitation</li>
+</ul>
+<p>What are the main differences?</p>
+<ul>
+<li>Physiotherapist have a broader medical knowledge than Sports Physiotherapists, making them capable of treating illnesses, diseases, neurological and respiratory issues.</li>
+<li>Sport Therapists are more specialised in treating sport injuries.</li>
+<li>Physiotherapist are focused on recovering people for their day-to-day life, whereas Sport Therapists help you to improve or mantain a required physical lever aligned with the sport they are doing.</li>
+<li><a href="https://matrixphysiotherapy.co.uk/service/manual-therapy-sports-massage/">Sports Massage Therapists</a> would be more useful for patients that want to get back to their fit.</li>
+</ul>
+<p>In our team of physiotherapists in Manchester we have both type of specialists.</p>
+<p>They are train to assess you and help you get back to your best in no time!</p>
+<p><a href="https://matrixphysiotherapy.co.uk/book-now/"><b>Book your appointment here.</b></a></p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://matrixphysiotherapy.co.uk/physiotherapy-vs-sports-physiotherapy/">Physiotherapy VS Sports Physiotherapy, what´s the difference?</a> appeared first on <a rel="nofollow" href="https://matrixphysiotherapy.co.uk">Matrix Physiotherapy</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://matrixphysiotherapy.co.uk/physiotherapy-vs-sports-physiotherapy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>All about sports massage</title>
+		<link>https://matrixphysiotherapy.co.uk/all-about-sports-massage/</link>
+					<comments>https://matrixphysiotherapy.co.uk/all-about-sports-massage/#respond</comments>
+		
+		<dc:creator><![CDATA[RizDev]]></dc:creator>
+		<pubDate>Mon, 26 Nov 2018 19:24:11 +0000</pubDate>
+				<category><![CDATA[Sports Massage]]></category>
+		<guid isPermaLink="false">https://matrixphysiotherapy.co.uk/?p=624</guid>
+
+					<description><![CDATA[<p>If you have ever trained for a difficult race or event, then you know how [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://matrixphysiotherapy.co.uk/all-about-sports-massage/">All about sports massage</a> appeared first on <a rel="nofollow" href="https://matrixphysiotherapy.co.uk">Matrix Physiotherapy</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>If you have ever trained for a difficult race or event, then you know how much hard work and pain goes into preparation for the big day. While giving your all during every workout is important you also need to pay attention to your recovery. If you do not recover properly, you will not perform your best and risk injuring yourself. One of the most popular ways to recover is to have a sports massage. Let’s learn more about what sports massage is and why you should incorporate this into your training schedule.</p>
+<h2>What´s Sports Massage?</h2>
+<p>Sports massages are different from regular massages at spas that are designed to simply relax you. The goal of a sports massage is to manipulate the muscles you use in your sport in order to get the best performance out of your body. Different techniques are used throughout your body to get the best results. While sports massages can be relaxing, they are important for relieving muscle pain and speeding recovery. There are several different types of sports massage therapies.</p>
+<h2>Here a few of the most popular sports massage techniques:</h2>
+<h2>1- Swedish massage</h2>
+<p>A Swedish massage uses a variety of methods to help your body relax and relieve tension in muscles. Your massage therapist will use circular pressure, kneading movements, tapping, friction, shaking and long stroke motions throughout the massage. This is a fairly gentle massage and should not be painful.</p>
+<h2>2- Deep Massage Therapy</h2>
+<p>Deep massage therapy is also called deep tissue massage. In this type of massage, the goal is to reach the deeper tissues in your muscles and fascia. It is similar to a Swedish massage, but with more pressure. While deep massage therapy should not be painful, it may hurt some if you have very tight knots in your muscles.</p>
+<h2>3- Trigger Point Massage</h2>
+<p>If you have specific points in your body that are often painful, then you may benefit from a trigger point massage. In this massage, pressure is applied to these tender points to help loosen up muscles and relieve pain. Your trigger points may not be in the area that is injured because trigger points can refer pain to other body parts. So you may find that relieving a trigger point will help you in other body parts as well.</p>
+<h2>4- Massage Treatment for Back Pain</h2>
+<p>If you suffer from back pain, then sports massage can be very helpful. Your therapist will use whatever technique they decide is best for your pain, so you may have a Swedish massage or trigger point therapy. Through manipulation of your muscles, your therapist should be able to relieve back spasms and pain.<br />
+Find out more about on how our treatments can help you <a href="https://matrixphysiotherapy.co.uk/services/physical-health/">on this page.</a></p>
+<h2>Benefits of Sports Massage</h2>
+<p>Even though this type of massage has the word “sport” in the name, you do not need to be an athlete to benefit from it. If you struggle with limited range of motion, chronic pain or difficulty sleeping, then sports massage may help you find relief.</p>
+<p>Sports massage should help increase flexibility and relax nerves. These massages can also be relaxing and will help you feel better emotionally. You will leave feeling renewed and ready to face a new day.</p>
+<p>Using sports massage to aid in recovery can go a long way in helping you reach a new PR or achieve a new goal. Make sure you talk to our certified sports massage therapists in Manchester when you decide to <a href="https://matrixphysiotherapy.co.uk/book-now/">book a massage.</a></p>
+<p>All our team of physiotherapists in Manchester are highly qualified, and trained to listen to you and diagnose your issue and apply the most effective techniques to help you heal faster and get back in the game in no time.<br />
+Take the first step to become pain free and get in touch with our team to get the best sports massage in Manchester.</p>
+<p><a role="button" href="https://matrixphysiotherapy.co.uk/contact/"><br />
+Get in touch<br />
+</a></p>
+<p>The post <a rel="nofollow" href="https://matrixphysiotherapy.co.uk/all-about-sports-massage/">All about sports massage</a> appeared first on <a rel="nofollow" href="https://matrixphysiotherapy.co.uk">Matrix Physiotherapy</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://matrixphysiotherapy.co.uk/all-about-sports-massage/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Everything you need to know about acupuncture</title>
+		<link>https://matrixphysiotherapy.co.uk/everything-you-need-to-know-about-acupuncture/</link>
+					<comments>https://matrixphysiotherapy.co.uk/everything-you-need-to-know-about-acupuncture/#respond</comments>
+		
+		<dc:creator><![CDATA[RizDev]]></dc:creator>
+		<pubDate>Fri, 23 Nov 2018 15:16:10 +0000</pubDate>
+				<category><![CDATA[Acupuncture]]></category>
+		<guid isPermaLink="false">https://matrixphysiotherapy.co.uk/?p=592</guid>
+
+					<description><![CDATA[<p>What´s acupuncture? Acupuncture is one of the world’s oldest and most commonly used alternative medicines. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://matrixphysiotherapy.co.uk/everything-you-need-to-know-about-acupuncture/">Everything you need to know about acupuncture</a> appeared first on <a rel="nofollow" href="https://matrixphysiotherapy.co.uk">Matrix Physiotherapy</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>What´s acupuncture?</h2>
+<p>Acupuncture is one of the world’s oldest and most commonly used alternative medicines. It originated from traditional Chinese medicine 3,000 years ago. Practitioners of acupuncture stimulate nerve endings on your body by inserting thin needles in specific points on your skin. It is common knowledge that acupuncture relieves many health conditions, but <strong>how does is work?</strong></p>
+<h2>How does acupuncture work?</h2>
+<p>The modern practice of acupuncture has changed considerably since it was first introduced in China.<a href="https://matrixphysiotherapy.co.uk/service/acupuncture/" target="_blank" rel="noopener"> The acupuncture treatments</a> carried out in hospitals and other health care facilities in the West today are not based on the same principles that were established in ancient Eastern texts as they were not based in science and medicine.</p>
+<p>Modern research says that when each needle is inserted into the skin, it produces a tiny injury. The injury is slight enough to cause little to no discomfort, while being enough to cause the body to respond. The response is a stimulation of the immune system. This promotes circulation to the area, helps heal wounds and pain modulation.</p>
+<p>During acupuncture treatment, between 5 and 20 needles are typically used. The acupuncturist may move, twirl, heat, or apply electric pulses to the needles, depending on your symptoms. The needles remain in the skin for up to 20 minutes while the patient lies still. After this period the acupuncturist will painlessly remove them.</p>
+<h2>What does acupuncture do?</h2>
+<p>There’s a reason that acupuncture has been around for so long. As well as alleviating symptoms of various physical conditions, acupuncture treatment has been proven to provide:</p>
+<ul>
+<li>More restful sleep</li>
+<li>Higher energy</li>
+<li>Increased mental clarity</li>
+<li>Better digestion</li>
+<li>Lower stress levels and reduced anxiety</li>
+<li>Reduced allergies</li>
+<li>Improved fertility</li>
+<li>Fewer headaches</li>
+</ul>
+<p>The blissful feeling that many individuals report after an acupuncture session is referred to as ‘acu land.’ Once this initial feeling fades, the patient will start to experience the benefits listed above in the following hours, days and weeks.</p>
+<p>Another benefit of acupuncture is that as it is a holistic treatment, it relieves pain and discomfort without many of the side effects posed by other therapies and medication.</p>
+<h2>Common uses for acupuncture</h2>
+<h2>1- Back Pain Relief</h2>
+<p>As 8 out of 10 people will experience back pain at some point in their life, it is the most common reason for seeking acupuncture treatment. Acupuncture is a useful alternative for those who want to avoid analgesic drugs. <a href="https://www.acupuncture.org.uk/a-to-z-of-conditions/a-to-z-of-conditions/back-pain.html">Studies</a> have shown that acupuncture helps relieve back pain during pregnancy and work related back pain. If you suffer from you could benefit from acupuncture as it:</p>
+<ul>
+<li>Provides pain relief</li>
+<li>Reduces inflammation</li>
+<li>Improves joint mobility</li>
+<li>Reduces the use of mediation needed¡</li>
+<li>Provides a more cost-effective treatment long term</li>
+<li>Improves outcome when paired with conventional rehabilitation exercises</li>
+</ul>
+<p><a href="https://www.acupuncture.org.uk/a-to-z-of-conditions/a-to-z-of-conditions/back-pain.html">Source</a></p>
+<h2>2- Anxiety</h2>
+<p>Acupuncture is a common alternative treatment for anxiety. Scientific evidence has shown that acupuncture has been effective for patients who didn’t respond to traditional treatment such as psychotherapy and medication. Participants experienced a significant reduction in anxiety after just 10 weeks of treatment.</p>
+<p>The side effects that come with anti anxiety drugs can be harmful and may cause depression, mood swings and nausea so it’s always wise to decrease the dosage where possible and acupuncture can make that possible.</p>
+<h2>3- Insomia</h2>
+<p>Acupuncture can induce sleep onset and reduce sleep disruption during the night according to studies from China. These effects lead to an increase in sleep time. It is also often used to treat physical conditions that make it difficult to sleep.</p>
+<h2>4- Acupuncture and cancer</h2>
+<p>Acupuncture is used to treat symptoms of cancer and the side effects of cancer treatment. One of the main reasons cancer patients have acupuncture treatment is to relieve sickness caused by chemotherapy or other cancer drugs. It is often recommended for patients who experience symptoms such as:</p>
+<ul>
+<li>Tiredness and weakness (fatigue)</li>
+<li>A dry mouth</li>
+<li>Breathlessness</li>
+<li>Hot flushes due to anti cancer treatments</li>
+</ul>
+<p>Combining acupuncture with cancer treatment can slow hair loss after chemotherapy. It also helps boost immunity by enhancing platelet count and inhibited a reduction in healthy cells as a result of radiation therapy. Overall, acupuncture can help bolster protection and to improve recovery following cancer treatments.</p>
+<h2>Side effects of acupuncture</h2>
+<p>While acupuncture treatment won’t make your symptoms worse, there are a few side effects. Most of them are minimal and short lived. One of the most common acupuncture side effects is muscle soreness. Body parts where acupuncture needles get inserted can feel sore after needles are removed. Soreness from acupuncture typically dissipates within 24 hours.</p>
+<p>Another side effect is bruising. While the majority of patients will never experience this, bruising can occur at the needling site. Sometimes bruising is the result of a hematoma, a localized collection of blood that gets initiated when the needle punctures the skin. Although bruises may last longer than soreness, they are generally nothing to worry about.</p>
+<p>Patients may also experience involuntary muscle twitching. This can occur during or after acupuncture treatment. While these side effects are rarely a cause for concern, if you feel like they are too severe or last for a prolonged amount of time you should contact your acupuncturist</p>
+<p>You may be reading the above and be wondering whether acupuncture could work for you, we can talk you through it to help you understand more, so please do not hesitate <a href="https://matrixphysiotherapy.co.uk/contact/">to contact the team</a> for a free 15 minute consultation or <a href="https://matrixphysiotherapy.co.uk/book-now/">book yourself an appointment.</a> Matrix is built on years of professional knowledge and experience. We work with elite sports persons across football and UFC as well as the armed and emergency forces, so you are in good hands.</p>
+<p>The post <a rel="nofollow" href="https://matrixphysiotherapy.co.uk/everything-you-need-to-know-about-acupuncture/">Everything you need to know about acupuncture</a> appeared first on <a rel="nofollow" href="https://matrixphysiotherapy.co.uk">Matrix Physiotherapy</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://matrixphysiotherapy.co.uk/everything-you-need-to-know-about-acupuncture/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
